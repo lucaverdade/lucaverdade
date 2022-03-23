@@ -1,7 +1,7 @@
 ### Olá, eu sou o Luca!!! 👋
 - Hoje estudo Engenharia de Software na Universidade de Brasilia.
 - Estou gostando bastante de estudar Front-End, porem estou sempre buscando aprender mais de Back-End, tambem.
-- Estudando no momento: javascript e banco de dados
+- Estudando no momento: Javascript, React e Banco de dados
 - 📫 Me contate: lvlenzoni@outlook.com
 
 <div align="center">
