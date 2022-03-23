@@ -25,8 +25,7 @@
 
   <a href="https://instagram.com/lucaverdade" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://portfolio-lucalenzoni.herokuapp.com/ "  target="_blank" ><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.linkedin.com/in/luca-lenzoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/luca-lenzoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lucaverdade/lucaverdade/blob/output/github-contribution-grid-snake.svg)
  
