@@ -1,7 +1,6 @@
 ### Olá, eu sou o Luca!!! 👋
-- Hoje estudo Engenharia de Software na Universidade de Brasilia.
-- Estou gostando bastante de estudar Front-End, porem estou sempre buscando aprender mais de Back-End, tambem.
-- Estudando no momento: Javascript, React e Banco de dados
+- Hoje estudo Ciência da Computação na Universidade de Brasilia.
+Como estagiário Salesforce, você irá explorar o mundo do desenvolvimento Salesforce. Trabalhará com linguagens como Apex e Visualforce, além dos Lightning Web Components (LWC). Essas linguagens permitem criar funcionalidades personalizadas e interfaces de usuário. Para recuperar dados, usará SOQL e SOSL, as linguagens de consulta do Salesforce. Compreender o modelo de dados do Salesforce é fundamental, pois é baseado em objetos e seus relacionamentos. Abraçar uma mentalidade de aprendizado contínuo e contar com o apoio da comunidade Salesforce são essenciais. Essa expertise técnica abrirá portas para oportunidades empolgantes no mundo da tecnologia empresarial.
 - 📫 Me contate: lvlenzoni@outlook.com
 
 <div align="center">
